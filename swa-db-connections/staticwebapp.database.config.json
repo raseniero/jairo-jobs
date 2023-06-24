@@ -29,8 +29,8 @@
     }
     },
     "entities": {
-        "Thing": {
-            "source": "dbo.Thing",
+        "Person": {
+            "source": "dbo.Person",
             "permissions": [
                 {
                     "actions": ["create", "read", "update", "delete"],
